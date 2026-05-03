@@ -1,6 +1,6 @@
 module.exports = {
     token: "BOT TOKENİ",
-    prefix: "PREFİX",
+    prefix: "!destek",
     content: "EMBED İÇİ YAZI",
     channel: "KANAL ID",
     button: "DBUTON YAZISI",
